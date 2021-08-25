@@ -1,0 +1,94 @@
+Data generated on date: Wed Aug 25 04:09:23 2021
+# refinements     =           2
+Time load                          =     41895 ns
+Time create hierarchy              =     12962 ns
+Time solve nonlinear system ...
+ ... with newtons method           =  15314956 ns
+No. iterations                     =         9
+ ... with (best) damped n. method  =  15867881 ns
+Best Damping                       =         1
+No. iterations                     =         9
+
+
+Damping overview: 
+Damping | Iterations | Time
+0.25    |         42 |  69181810 ns
+0.50    |         19 |  32362183 ns
+0.75    |         11 |  18367058 ns
+1.00    |          9 |  15867881 ns
+Data generated on date: Wed Aug 25 04:19:29 2021
+# refinements     =           0
+Time load                          =     59837 ns
+Time create hierarchy              =         0 ns
+Time solve nonlinear system ...
+ ... with newtons method           =  11997632 ns
+No. iterations                     =         7
+ ... with (best) damped n. method  =  11836496 ns
+Best Damping                       =         1
+No. iterations                     =         7
+
+
+Damping overview: 
+Damping | Iterations | Time
+0.25    |         41 |  68643011 ns
+0.50    |         19 |  31495136 ns
+0.75    |         10 |  16611199 ns
+1.00    |          7 |  11836496 ns
+Data generated on date: Wed Aug 25 04:22:08 2021
+# refinements     =           2
+Time load                          =     40274 ns
+Time create hierarchy              =     13300 ns
+Time solve nonlinear system ...
+ ... with newtons method           =  15932166 ns
+No. iterations                     =         9
+ ... with (best) damped n. method  =  15798683 ns
+Best Damping                       =         1
+No. iterations                     =         9
+
+
+Damping overview: 
+Damping | Iterations | Time
+0.25    |         42 |  74226702 ns
+0.50    |         19 |  33538466 ns
+0.75    |         11 |  19152106 ns
+1.00    |          9 |  15798683 ns
+Data generated on date: Wed Aug 25 04:27:16 2021
+# refinements     =           4
+Time load                          =     38010 ns
+Time create hierarchy              =    136680 ns
+Time solve nonlinear system ...
+ ... with newtons method           =  39130253 ns
+No. iterations                     =        13
+ ... with (best) damped n. method  =  39234858 ns
+Best Damping                       =      0.75
+No. iterations                     =        13
+
+
+Damping overview: 
+Damping | Iterations | Time
+0.25    |         43 | 128187839 ns
+0.50    |         20 |  59907105 ns
+0.75    |         13 |  39234858 ns
+1.00    |         13 |  40227942 ns
+Data generated on date: Wed Aug 25 06:13:48 2021
+
+# refinements     =           0
+Time load                          =     76484 ns
+Time create hierarchy              =      1002 ns
+Time solve nonlinear system ...
+ ... with newtons method           =  11376149 ns
+No. iterations                     =      -100
+ ... with (best) damped n. method  =  10776826 ns
+Best Damping                       =         1
+No. iterations                     =         7
+
+Damping overview: 
+Damping | Iterations | Time
+
+
+0.25    |         41 |  64285459 ns
+0.50    |         19 |  31277824 ns
+0.75    |         10 |  16326311 ns
+1.00    |          7 |  10776826 ns
+
+
